@@ -31,4 +31,4 @@ Use SQL to answer the Operations and Marketing teams' requests:
 
 - We will discuss your ideas and solution together
 
-**Happy coding!** :)
+**Happy coding!** :blush:
