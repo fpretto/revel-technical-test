@@ -3,7 +3,7 @@
 ## Overview of Datasets
 -	**cars_fleet.csv**: fleet of cars owned by the company.
 -	**cars_price.csv**: cars’ current market prices.
--	**cars_country.csv**: manufacturing region of the cars.
+-	**cars_country.csv**: region of the car manufacturers.
 -	**cars_trips.csv**: trips made by each car in 2016.
 
 ## Tasks
