@@ -6,6 +6,8 @@
 -	**cars_country.csv**: region of the car manufacturers.
 -	**cars_trips.csv**: trips made by each car in 2016.
 
+All relevant columns' names are self-explanatory of the data they contain.
+
 ## Tasks
 1.	Using the datasets provided create a data model in a DBMS of your choice (we use PostgreSQL, but you can use whichever you prefer for this test) and load the data. Perform any transformations you consider necessary.
 
